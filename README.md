@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @mario-005
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning python and node.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there 👋
 
-<!---
-mario-005/mario-005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+- 👨‍💻 I’m Mario, a web developer & software enthusiast  
+- 🌱 Currently learning **React.js, Laravel, API Integration**  
+- 💡 Interested in **Open Source, Data Visualization, and Web Apps**  
+- 📫 Contact: your.email@example.com  
+
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, PHP, Python  
+- **Frameworks:** React.js, Laravel, Node.js  
+- **Databases:** MySQL, MongoDB  
+- **Tools:** Git, VS Code, Postman  
+
+---
